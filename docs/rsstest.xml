@@ -14,11 +14,11 @@
         <copyright>Yuta copyright 2016</copyright>
         <item>
           <title>Test Audio File</title>
-          <link>https://dl.dropboxusercontent.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?rlkey=xlq0hkf9rxqzlk1q70dw0u4ur\&dl=0/link>
+          <link>https://dropbox.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?dl=1/link>
           <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
           <description>This is a test description for the audio file</description>
-          <enclosure url="https://dl.dropboxusercontent.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?rlkey=xlq0hkf9rxqzlk1q70dw0u4ur\&dl=0" length="19738287" type="audio/mpeg"/>
-          <guid>https://dl.dropboxusercontent.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?rlkey=xlq0hkf9rxqzlk1q70dw0u4ur\&dl=0</guid>
+          <enclosure url="https://dropbox.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?dl=1" length="19738287" type="audio/mpeg"/>
+          <guid>https://dropbox.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?dl=1</guid>
         </item>
     </channel>
 </rss>
