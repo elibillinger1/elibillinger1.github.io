@@ -15,7 +15,7 @@
           <title>Test Audio File</title>
           <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
           <description>This is a test description for the audio file</description>
-          <enclosure url="https://www.dropbox.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?rlkey=xlq0hkf9rxqzlk1q70dw0u4ur&amp;dl=1" length="19738287" type="audio/x-m4a"/>
+          <enclosure url="https://www.dropbox.com/scl/fi/0x9krnht7shiznjo3au3x/test.m4a?rlkey=xlq0hkf9rxqzlk1q70dw0u4ur&amp;raw=1" length="19738287" type="audio/x-m4a"/>
         </item>
     </channel>
 </rss>
